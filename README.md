@@ -1,6 +1,4 @@
-Below is a professional **README.md** that you can upload directly to **GitHub**. It is written in a way that recruiters and hiring managers expect from an aspiring **Data Analyst**.
 
----
 
 # 📊 Corporate Social Responsibility (CSR) Analysis | Data Analytics Project
 

@@ -207,6 +207,7 @@ Through this project, I gained practical experience in:
 ## 👨‍💻 About Me
 
 **Nandhakumar A**
+
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights through Python, SQL, Excel, and Power BI. I enjoy solving business problems using data analytics and continuously improving my analytical and visualization skills.
 
 * 💼 Role: Aspiring Data Analyst
@@ -215,6 +216,4 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful ins
 
 ---
 
-## ⭐ If you found this project helpful, please consider giving it a Star!
 
-⭐ **If you like this project, don't forget to star the repository!**
